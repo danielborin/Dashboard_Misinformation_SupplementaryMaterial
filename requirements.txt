@@ -1,0 +1,5 @@
+matplotlib>=3.8.0
+matplotlib_venn>=1.1.2
+pandas>=2.3.3
+pynamicalsys>=1.4.6
+streamlit>=1.52.1
